@@ -59,3 +59,6 @@
 
 # list_to_tuple = tuple(my_list)
 # print(type(list_to_tuple))
+
+def printing():
+    print("hello world")
